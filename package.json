@@ -1,0 +1,24 @@
+{
+  "name": "numberguessing-q1-3",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "smt-multiply": "dist/app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.4",
+    "@types/node": "^20.8.6",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
